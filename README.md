@@ -1,2 +1,2 @@
 # Git-Hat
-Hater git, fy faen
+git version 2.30.1 (Apple Git-130)
